@@ -53,6 +53,4 @@ src
          ├── application-dev.properties
          └── application-prod.properties
 
-         Observações
-	•	O banco H2 é em memória, então os dados serão perdidos ao desligar a aplicação.
-	•	Você pode adicionar novos produtos diretamente via SQL no H2 Console ou pela API.
+         
