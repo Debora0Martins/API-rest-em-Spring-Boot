@@ -1,27 +1,28 @@
-NewPJ 
+## API REST em Spring Boot
+
 Descrição
 
 Aplicativo Spring Boot para gerenciamento de produtos.
 Permite criar, listar e consultar produtos usando H2 Database em memória. Ideal para aprendizado de Spring Data JPA e APIs REST.
 
-Funcionalidades
+## Funcionalidades
 	•	Listar todos os produtos (GET /produtos)
 	•	Criar um produto (POST /produtos)
 	•	Acesso ao H2 Console (http://localhost:8080/h2-console)
 
-Tecnologias
+## Tecnologias
 	•	Java 17
 	•	Spring Boot
 	•	Spring Data JPA
 	•	H2 Database (em memória)
 	•	Maven
 
-Configurações de Perfil
+## Configurações de Perfil
 	•	application.properties → Configurações padrão
 	•	application-dev.properties → Ambiente de desenvolvimento
 	•	application-prod.properties → Ambiente de produção
 
- Como Executar
+ ## Como Executar
 	1.	Clone o repositório:
  git clone https://github.com/SeuUsuario/NewPJ.git
 
@@ -52,5 +53,7 @@ src
          ├── application.properties
          ├── application-dev.properties
          └── application-prod.properties
+
+   ## Autor: DEBORA MARTINS 
 
          
