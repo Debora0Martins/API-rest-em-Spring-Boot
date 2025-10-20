@@ -3,7 +3,7 @@
 Descrição
 
 Aplicativo Spring Boot para gerenciamento de produtos.
-Permite criar, listar e consultar produtos usando H2 Database em memória. Ideal para aprendizado de Spring Data JPA e APIs REST.
+Permite criar, listar e consultar produtos usando H2 Database em memória. Ideal para de Spring Data JPA e APIs REST.
 
 ## Funcionalidades
 	•	Listar todos os produtos (GET /produtos)
